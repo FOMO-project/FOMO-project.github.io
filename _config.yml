@@ -21,12 +21,11 @@ author: Fungal Oceanic Mycomass Observatory
 
 navbar-links:
   About FOMO: "aboutus"
+  Join us: "https://docs.google.com/forms/d/e/1FAIpQLSdkxb3vMeuvssp0pWDquQAyD7M33WWmcqQiS9q1MH8Z_GMI_Q/viewform?usp=pp_url"
   Resources:
-    - Protocols.io: "https://www.protocols.io/workspaces/marine-fungi"
+    - Protocols: "https://www.protocols.io/workspaces/marine-fungi"
     - Publications: "listpapers"
     #- Learn markdown: "https://www.markdowntutorial.com/"
- Join us: 
-    - Onboarding: "https://docs.google.com/forms/d/e/1FAIpQLSdkxb3vMeuvssp0pWDquQAyD7M33WWmcqQiS9q1MH8Z_GMI_Q/viewform?usp=pp_url"
   
   #Author's home: "https://deanattali.com"
 
