@@ -20,9 +20,9 @@ author: Fungal Oceanic Mycomass Observatory
 ###############################################
 
 navbar-links:
-  #About Me: "aboutme"
-  Resources:
-    #- Beautiful Jekyll: "https://beautifuljekyll.com"
+  About us: "aboutus"
+  Protocols:
+    - Protocolsio: "https://www.protocols.io/workspaces/marine-fungi"
     #- Learn markdown: "https://www.markdowntutorial.com/"
   #Author's home: "https://deanattali.com"
 
@@ -136,8 +136,8 @@ navbar-var-length: false
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
 page-col: "#def3f6"
-text-col: "#064273"
-link-col: "#ffffff"
+text-col: "#05668D"
+link-col: "#00A896"
 hover-col: "#0085A1"
 navbar-col: "#EAEAEA"
 navbar-text-col: "#404040"
