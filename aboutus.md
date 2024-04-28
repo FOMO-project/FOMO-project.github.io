@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About the FOMO project
+title: The FOMO project
 ---
 
 My name is Inigo Montoya. I have the following qualities:
