@@ -54,10 +54,9 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "fungaloceanicmycomass@gmail.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  #rss: true  # remove this line if you don't want to show an RSS link at the bottom
   #facebook: deanattali
   github: FOMO-project
-  protocols: https://www.protocols.io/workspaces/marine-fungi
   #twitter: daattali
   #patreon: DeanAttali
   #youtube: "@daattali"
