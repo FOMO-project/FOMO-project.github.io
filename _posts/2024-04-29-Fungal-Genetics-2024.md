@@ -2,7 +2,7 @@
 layout: post
 title: The 2nd Occasional Marine Mycology Meeting
 subtitle: Fungal Genetics Conference 2024
-cover-img: /assets/img/Fungal_Genetics2024.png
+cover-img: /assets/img/230816-Fungal24-hero-test-1.jpg
 share-img: /assets/img/Fungal_Genetics2024.png
 author: Lluvia Vargas
 ---
