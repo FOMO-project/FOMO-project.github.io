@@ -9,7 +9,7 @@ share-img: Group_photo_FG2024.jpeg
 author: Lluvia Vargas
 ---
 
-![FG_Group](https://github.com/FOMO-project/FOMO-project.github.io/assets/img/Group_photo_FG2024.jpeg){: .mx-auto.d-block :}
+![FG_Group](https://github.com/FOMO-project/FOMO-project.github.io/blob/master/assets/img/Group_photo_FG2024.jpeg){: .mx-auto.d-block :}
 
 
 Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?
