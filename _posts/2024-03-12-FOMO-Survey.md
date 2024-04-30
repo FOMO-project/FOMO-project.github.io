@@ -5,6 +5,7 @@ subtitle: Missing out on fungal roles in oceanic processes
 author: Anthony Amend
 ---
 
+<img src="https://FOMO-project.github.io/assets/img/Mycoloop.png" alt="FG2024_group" />
 
 We do know that fungi play an important ecological role in the different marine habitats, but how much do we know about the abundance of this enigmatic organisms in comparison with bacteria.
 
