@@ -7,7 +7,7 @@ share-img: /assets/img/FGroup_photo_FG2024.jpg
 author: Lluvia Vargas
 ---
 
-![FG_Group] <img src="{{ "/assets/img/FGroup_photo_FG2024.jpg" | prepend: site.baseurl | prepend: site.url}}" alt="FG_Group" /> {: .mx-auto.d-block :}
+<img src="{{ "/assets/img/FGroup_photo_FG2024.jpg" | prepend: site.baseurl | prepend: site.url}}" alt="FG_Group" />
 
 
 
