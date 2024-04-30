@@ -7,9 +7,9 @@ author: Lluvia Vargas
 
 <img src="https://FOMO-project.github.io/assets/img/Mycoloop.png" alt="FG2024_group" />
 
-We do know that fungi play an important ecological role in the different marine habitats, but how much do we know about the abundance of this enigmatic organisms in comparison with bacteria.
+It is well established that fungi play a significant role in the ecology of marine habitats. However, the abundance of these enigmatic organisms in comparison with bacteria remains poorly understood.
 
-Do you have an idea?
+Do you have any insights on this topic?
 
 **[BE PART OF OUR 30-SECOND FOMO SURVEY](https://docs.google.com/forms/d/e/1FAIpQLSe2Foqz4VMbbeQojWvOOLiADWIbCs5Dtb0AjqMjC01AsrXp-A/viewform?pli=1)**
 
