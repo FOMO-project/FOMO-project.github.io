@@ -13,4 +13,4 @@ The one-day workshop commenced with a discussion of the current state of marine 
 
 Also, the main objective of the workshop was to **develop a global collaborative research initiative: Fungal Oceanic Mycomass Observatory (FOMO)**
 
-**Thanks to Adam Jones and the Gordon and Betty Moore Foundation for workshop funding**
+**Thanks to Adam Jones and the Gordon and Betty Moore Foundation for workshop funding.**
