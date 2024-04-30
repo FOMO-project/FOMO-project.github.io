@@ -7,7 +7,7 @@ share-img: /assets/img/FGroup_photo_FG2024.jpg
 author: Lluvia Vargas
 ---
 
-![FG_Group](https://github.com/FOMO-project/assets/img/Fungal_Genetics2024.png){: .mx-auto.d-block :}
+![FG_Group](assets/img/Fungal_Genetics2024.png){: .mx-auto.d-block :}
 
 
 
