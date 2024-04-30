@@ -25,6 +25,7 @@ navbar-links:
   Resources:
     - Protocols: "https://www.protocols.io/workspaces/marine-fungi"
     - Publications: "listpapers"
+    - Databases: "https://www.marinefungi.org/"
     #- Learn markdown: "https://www.markdowntutorial.com/"
   
   #Author's home: "https://deanattali.com"
