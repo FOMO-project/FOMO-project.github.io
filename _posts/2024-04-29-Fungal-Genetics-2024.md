@@ -7,7 +7,7 @@ share-img: /assets/img/FGroup_photo_FG2024.jpg
 author: Lluvia Vargas
 ---
 
-![FG_Group](assets/img/Fungal_Genetics2024.png){: .mx-auto.d-block :}
+![FG_Group](/assets/img/FGroup_photo_FG2024.jpg){: .mx-auto.d-block :}
 
 
 
