@@ -7,4 +7,10 @@ author: Lluvia Vargas
 
 <img src="https://FOMO-project.github.io/assets/img/Group_photo_FG2024.png" alt="FG2024_group" />
 
-Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment 
+With the organization on hands of [Dr. Anthony Amend](https://amendlab.com/)and with the assistance of the [Genetics Society of America](https://genetics-gsa.org/fungal/) for logistical support, a multidisciplinary group of mycologists were able to convene at the Fungal Genetics Conference 2024. 
+
+The one-day workshop commenced with a discussion of the current state of marine fungal research. This was followed by a brainstorming session on potential protocols that could be employed to improve the estimation of marine fungi in the water column.
+
+Also, the main objective of the workshop was to **develop a global collaborative research initiative: Fungal Oceanic Mycomass Observatory (FOMO)**
+
+**Thanks to Adam Jones and the Gordon and Betty Moore Foundation for workshop funding**
