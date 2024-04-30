@@ -7,8 +7,7 @@ share-img: /assets/img/FGroup_photo_FG2024.jpg
 author: Lluvia Vargas
 ---
 
-<img src="{{ "/assets/img/FGroup_photo_FG2024.jpg" | prepend: site.baseurl | prepend: site.url}}" alt="FG_Group" />
-
+<img src="https://FOMO-project.github.io/assets/img/FGroup_photo_FG2024.jpg" alt="Untitled" />
 
 
 Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment 
