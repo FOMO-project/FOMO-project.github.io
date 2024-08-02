@@ -20,5 +20,6 @@ Thanks for getting involved in the FOMO and contributing to our understanding of
 No problem, you can still contribute by filling out our [**questionnaire.**](https://forms.gle/ELZXXouvrJXhB6ck7) 
 </p>
 
+<p align="center">
 Have questions?  Contact us at **fungaloceanicmycomass@gmail.com**
-
+</p>
