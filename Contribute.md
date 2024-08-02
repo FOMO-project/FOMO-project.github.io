@@ -17,7 +17,7 @@ Thanks for getting involved in the FOMO and contributing to our understanding of
 </p>
 
 <p align="center">
-No problem, you can still contribute by filling out our questionnaire: "https://forms.gle/ELZXXouvrJXhB6ck7"
+No problem, you can still contribute by filling out our [**questionnaire.**](https://forms.gle/ELZXXouvrJXhB6ck7) 
 </p>
 
 Have questions?  Contact us at **fungaloceanicmycomass@gmail.com**
