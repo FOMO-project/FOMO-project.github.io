@@ -6,7 +6,7 @@ subtitle: Contribute to our understanding of fungal biomass in the ocean
 
 
 <p align="center">
-Be involved in the FOMO and contribute to our understanding of Fungal biomass in the ocean. Together, we are hoping to answer the basic question: how much fungi is in the ocean? We hope that offering a range of protocols almost anyone with access to a basic molecular lab will be able to participate and contribute to our open access dataset of marine fungal biomass. At this time, we are interested in sampling fungi from the water column only.  We know there are so many interesting things in sediments and hosts, but we have to start somewhere…
+Together, we are hoping to answer the basic question: how much fungi is in the ocean? We hope that offering a range of protocols almost anyone with access to a basic molecular lab will be able to participate and contribute to our open access dataset of marine fungal biomass. At this time, we are interested in sampling fungi from the water column only.  We know there are so many interesting things in sediments and hosts, but we have to start somewhere…
 </p>
 
 
@@ -16,6 +16,11 @@ Be involved in the FOMO and contribute to our understanding of Fungal biomass in
 
 
 
+
+
+
+Download:
+[**METADATA FILE**](https://docs.google.com/spreadsheets/d/1tNFaM1WcGtobfYW6NMHnoxSZ8aAvDh-e/edit?usp=sharing&ouid=110207722181876731396&rtpof=true&sd=true)
 
 
 Too busy/lazy to sample?  Don’t have access to a lab?
