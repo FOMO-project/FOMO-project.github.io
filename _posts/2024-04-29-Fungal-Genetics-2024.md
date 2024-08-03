@@ -2,7 +2,6 @@
 layout: post
 title: The 2nd Occasional Marine Mycology Meeting
 subtitle: Fungal Genetics Conference 2024
-author: Lluvia Vargas
 ---
 
 <img src="https://FOMO-project.github.io/assets/img/Group_photo_FG2024.png" alt="FG2024_group" />
