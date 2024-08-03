@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Be part of the effort!
+title: Join the effort!
 subtitle: Contribute to our understanding of fungal biomass in the ocean
 ---
 
