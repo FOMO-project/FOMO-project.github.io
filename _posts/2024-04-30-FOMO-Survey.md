@@ -2,7 +2,6 @@
 layout: post
 title: Fungal Oceanic Mycomass Survey
 subtitle: Missing out on fungal roles in oceanic processes
-author: Lluvia Vargas
 ---
 
 <img src="https://FOMO-project.github.io/assets/img/Mycoloop.png" alt="FG2024_group" />
