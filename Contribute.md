@@ -22,9 +22,12 @@ subtitle: Contribute to our understanding of fungal biomass in the ocean
 Download [**METADATA FILE**](https://docs.google.com/spreadsheets/d/1tNFaM1WcGtobfYW6NMHnoxSZ8aAvDh-e/edit?usp=sharing&ouid=110207722181876731396&rtpof=true&sd=true)
 
 Download available protocols:
-[**Abundance of fungal hyphae in seawater by epifluorescence microscopy using calcofluor white stain method**](https://drive.google.com/file/d/1wNzlx4NDy6sPkmKPcJEp0qIE2YSe_b6G/view?usp=sharing)
-[**Most Probably Number protocol for enumeration of marine-derived fungi**](https://drive.google.com/file/d/1Ju6_9hCRdO3vlh2RBsNtBbpNUikpsh8a/view?usp=sharing)
-[**Fungal abundance in water samples using quantitative PCR**](https://drive.google.com/file/d/1cfTI365G1VvMy-3Ef4lvCaQ5Z1T3guV4/view?usp=sharing)
+
+1. [**Abundance of fungal hyphae in seawater by epifluorescence microscopy using calcofluor white stain method**](https://drive.google.com/file/d/1wNzlx4NDy6sPkmKPcJEp0qIE2YSe_b6G/view?usp=sharing)
+
+2. [**Most Probably Number protocol for enumeration of marine-derived fungi**](https://drive.google.com/file/d/1Ju6_9hCRdO3vlh2RBsNtBbpNUikpsh8a/view?usp=sharing)
+
+3. [**Fungal abundance in water samples using quantitative PCR**](https://drive.google.com/file/d/1cfTI365G1VvMy-3Ef4lvCaQ5Z1T3guV4/view?usp=sharing)
 
 
 
