@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Contributing to our understanding of fungal biomass in the ocean
+subtitle: 
 ---
 
 
@@ -16,15 +17,13 @@ Thanks for getting involved in the FOMO and contributing to our understanding of
 
 
 
-<p align="center">
+
 Too busy/lazy to sample?  Don’t have access to a lab?
 
-<p align="center"> 
 
-  No problem, you can still contribute by filling out our [**questionnaire.**](https://forms.gle/ELZXXouvrJXhB6ck7)
+No problem, you can still contribute by filling out our [**questionnaire.**](https://forms.gle/ELZXXouvrJXhB6ck7)
   
-<p align="center">
   
-  Have questions?  Contact us at **fungaloceanicmycomass@gmail.com**
+Have questions?  Contact us at **fungaloceanicmycomass@gmail.com**
 
-</p>
+
