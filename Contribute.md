@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Contributing to our understanding of fungal biomass in the ocean
-subtitle: 
+title: Be part of the effort!
+subtitle: Contribute to our understanding of fungal biomass in the ocean
 ---
 
 
